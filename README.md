@@ -21,7 +21,7 @@ O Terminal City App é uma aplicação para rodar no terminal, projetada para fo
 
 1. **Certifique-se de ter o Node.js e o npm instalados.** *(Passo a Passo logo abaixo)*
 
-2. **Clone este repositório:** *<span style="color: white;">git clone</span> https://github.com/rayner27k/Terminal-City-App.git
+2. **Clone este repositório:** *<span style="color: white;">git clone</span> https://github.com/rayner27k/Terminal-City-App.git*
 
 3. **Instale as dependências do projeto.** *(Passo a Passo logo abaixo)*
 
@@ -32,7 +32,7 @@ O Terminal City App é uma aplicação para rodar no terminal, projetada para fo
 Antes de iniciar a aplicação, certifique-se de ter configurado corretamente as seguintes dependências:
 
 - *[Node.js](https://nodejs.org/) instalado (v20.11.1)*
-  - Você pode baixar e instalar o Node.js a partir do [site oficial](https://nodejs.org/). Siga as instruções de instalação para a sua plataforma.
+  - Você pode baixar e instalar o Node.js a partir do *[site oficial](https://nodejs.org/)*. Siga as instruções de instalação para a sua plataforma.
 - *[Npm](https://www.npmjs.com/) instalado (10.2.4)*
   - O npm é instalado automaticamente junto com o Node.js. Verifique se o npm está instalado executando o comando `npm -v` no seu terminal.
 
@@ -43,8 +43,7 @@ Antes de iniciar a aplicação, certifique-se de ter configurado corretamente as
 Esta aplicação depende das seguintes bibliotecas:
 
 - *[node-fetch](https://www.npmjs.com/package/node-fetch) (v2.2.7.0)* **-** Uma biblioteca para fazer requisições HTTP no Node.js.
-- *[dotenv](https://www.npmjs.com/package/dotenv) (16.4.5)* **-** Carrega variáveis de ambiente de um arquivo `.env` para `process.env`.
- *<span style="color: white;">(Caso venha a precisar)</span>*
+- *[dotenv](https://www.npmjs.com/package/dotenv) (16.4.5)* **-** Carrega variáveis de ambiente de um arquivo `.env` para `process.env`. *<span style="color: white;">(Caso venha a precisar)</span>*
 
 Caso venha a compartilhar o código em outro ambiente, você pode instalar todas as dependências necessárias executando o seguinte comando:
 
@@ -62,7 +61,7 @@ Para usar este aplicativo, você precisará configurar suas chaves de API para a
 
 <span style="color: white;">Se seu intuito for apenas testar o código, siga as seguintes etapas:</span>
 
-1. **Crie uma conta nos sites [API Ninjas](https://api-ninjas.com/) e [Openweather API](https://openweathermap.org/), e obtenha as suas chaves.**
+1. **Crie uma conta nos sites *[API Ninjas](https://api-ninjas.com/)* e *[Openweather API](https://openweathermap.org/)*, e obtenha as suas chaves.**
 
     - Ao adquirir suas chaves, copie suas chaves de API e salve-as em um local seguro.
 
@@ -84,7 +83,7 @@ Para usar este aplicativo, você precisará configurar suas chaves de API para a
 
 <span style="color: white;">Se seu intuito for compartilhar o código em outros locais seguros, siga as seguintes etapas:</span>
 
-1. **Crie uma conta nos sites [API Ninjas](https://api-ninjas.com/) e [Openweather API](https://openweathermap.org/), e obtenha as suas chaves.**
+1. **Crie uma conta nos sites *[API Ninjas](https://api-ninjas.com/)* e *[Openweather API](https://openweathermap.org/)*, e obtenha as suas chaves.**
 
     - Ao adquirir suas chaves, copie suas chaves de API e salve-as em um local seguro.
 
@@ -136,4 +135,4 @@ Após a instalação, você pode iniciar a aplicação usando os seguintes coman
 ## <span style="color: white;">*Divirta-se*</span>
 
 <span style="color: white;">Siga as instruções no terminal para fornecer o nome de uma cidade e explorar suas informações.</span>  
-<span style="color: white;">Divirta-se explorando o </span><ins>[**Terminal City App**](https://github.com/rayner27k/Terminal-City-App.git)</ins><span style="color: white;"> e descobrindo dados interessantes sobre várias cidades ao redor do mundo!</span>
+<span style="color: white;">Divirta-se explorando o </span><ins>[***Terminal City App***](https://github.com/rayner27k/Terminal-City-App.git)</ins><span style="color: white;"> e descobrindo dados interessantes sobre várias cidades ao redor do mundo!</span>

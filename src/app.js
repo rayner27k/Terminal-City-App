@@ -4,7 +4,7 @@ const { rl, getCity, getQuoteResponse } = require('./userInput.js');
 // Função principal
 async function main() {
     try {
-        console.log('\n\x1b[4;37;44mBem-vindo ao City App!\x1b[0m');
+        console.log('\n\x1b[4;37;44mBem-vindo ao Terminal City App!\x1b[0m');
         await new Promise(resolve => setTimeout(resolve, 700));
 
         const city = await getCity();
